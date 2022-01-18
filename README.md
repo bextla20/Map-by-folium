@@ -1,1 +1,1 @@
-# Maps
+# Folium Map
