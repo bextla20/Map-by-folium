@@ -18,4 +18,4 @@ In this project, l have used two most tool (Choropleth maps and marker) of foliu
 
 Marker type view of population for each region and Choropleth map visulaize area of each region.
 
-![Map](Map.png)
+![Map](./Map.png)
