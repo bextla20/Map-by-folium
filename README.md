@@ -17,3 +17,5 @@ Aim of this project to show sow area and population of each region. For this l h
 In this project, l have used two most tool (Choropleth maps and marker) of folium. Choropleth can be easily created by binding the data between Pandas DataFrames/Series and Geo/TopoJSON geometries. Color Brewer sequential color schemes are built-in to the library, and can be passed to quickly visualize different combinations.
 
 Marker type view of population for each region and Choropleth map visulaize area of each region.
+
+![Map](C:/Users/bext_la/Desktop/Map.png)
