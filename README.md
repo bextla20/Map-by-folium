@@ -18,4 +18,4 @@ In this project, l have used two most tool (Choropleth maps and marker) of foliu
 
 Marker type view of population for each region and Choropleth map visulaize area of each region.
 
-![Map](http:///C:/Users/bext_la/Desktop/Map.png)
+![Map](https://github.com/bextla20/Maps/blob/main/Map.png)
